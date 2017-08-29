@@ -3,5 +3,14 @@ html {
 	background-color: lightgray;
 	text-align: center;
 	width: 800px;
+}
 
+h1{
+	text-align: center;
+}	
+#obrazek1 {
+    background:url(../images/h.jpg);
+    background-repeat: no-repeat;
+    padding:35px;
+    background-origin: content-box;
 }
