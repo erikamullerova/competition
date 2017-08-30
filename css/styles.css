@@ -1,27 +1,23 @@
-html {
-	font-family: verdana;
+
+
+body{font-family: verdana;
 	background-color: lightgray;
 	text-align: center;
-	width: 800px;
-}
-
-body{
     	padding-top: 70px;
     }
 	
 h1{
-	text-align: center;
+
 	font-family: Century Gothic;
-	color: white;
+
 	font-size: 100px;
 }	
-#obrazek1 {
-    background:url(../images/h.jpg);
-    background-repeat: no-repeat;
-    padding:100px;
-    background-origin: content-box;
-	background-size: 100%
-}
+
 p{
 	text-align: center;
 }	
+
+.pozadi {
+	width:100%;
+}
+	
