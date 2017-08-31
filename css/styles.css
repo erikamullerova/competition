@@ -40,3 +40,6 @@ p{
 .gallery .photo a img {border: 3px solid #AAA;}
 .gallery .photo a:hover img {border: 3px solid #707070;}
 
+h2{ text-align: center-left;
+}
+
