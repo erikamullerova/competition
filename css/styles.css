@@ -39,3 +39,12 @@ p{
 
 .gallery .photo a img {border: 3px solid #AAA;}
 .gallery .photo a:hover img {border: 3px solid #707070;}
+
+.mapouter{
+	overflow:hidden;height:500px;width:600px;
+}
+.gmap_canvas {
+	background:none!important;
+	height:500px;
+	width:600px;
+}
